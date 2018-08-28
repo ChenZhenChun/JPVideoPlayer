@@ -1,7 +1,7 @@
 /*
  * This file is part of the JPVideoPlayer package.
  * (c) NewPan <13246884282@163.com>
- *  1234567890
+ *
  * For the full copyright and license information, please view the LICENSE
  * file that was distributed with this source code.
  *
